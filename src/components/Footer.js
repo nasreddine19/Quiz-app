@@ -5,13 +5,13 @@ const Footer = () => {
     <footer>
     <img className="quiz-logo" src={quizLogo} alt="quizzical-logo" /> 
       <div className="social-links">
-        <a href="https://www.facebook.com/jack9552">
+        <a href="https://www.facebook.com/n.boudellal">
           <i class="fa-brands fa-facebook"></i>
         </a>
         <a href="https://github.com/nasreddine19">
           <i class="fa-brands fa-github"></i>
         </a>
-        <a href="https://www.instagram.com/jack19557/">
+        <a href="https://www.instagram.com/ns.boudellal/">
           <i class="fa-brands fa-instagram"></i>
         </a>
         <a href="https://wa.me/+213655759596">
